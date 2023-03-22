@@ -3,7 +3,7 @@
 
 ##  :clipboard: Once I've Used
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-D0271D?style=for-the-badge&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Robot Framework-000000?style=for-the-badge&logo=Robot Framework&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
-
+<br/>
 
 ## :cloud: SNS :cloud:
 <a href="https://blog.naver.com/gkatjdwns10" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://www.instagram.com/ham_yee.55/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmzhFtdswSlHVRhsjpVzDBLJzmDnqnCpjFGcGJbLDcgFsxxZtQLzgHFSQxFlvWVbMDwXvV" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
