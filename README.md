@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=Welcome&desc=%20SeongJun's%20GitHub%20Profile&animation=fadeIn&fontColor=ffffff&fontSize=80&fontAlignY=40&descAlign=60&descAlignY=53&descSize=18)
+
 👋Welcome my github profile!
 
 ##  :clipboard: Once I've Used
