@@ -16,4 +16,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamseongjun)](https://github.com/anuraghazra/github-readme-stats)  [![hamseongjun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hamseongjun&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hamseongjun)
 <br/>
 
-[![hamseongjun's github activity graph](https://activity-graph.herokuapp.com/graph?username=hamseongjun&theme=nord)](https://github.com/hamseongjun/github-readme-activity-graph)
