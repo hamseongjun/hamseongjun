@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Java-D0271D?style=for-the-badge&logo=OpenJDK&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Robot Framework-000000?style=for-the-badge&logo=Robot Framework&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <br/><br/>
