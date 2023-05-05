@@ -4,7 +4,7 @@
 
 ##  :clipboard: Once I've Used
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></a>
-<img src="https://img.shields.io/badge/C\+\+-00599C?style=for-the-badge&logo=C\+\+&logoColor=white"></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 <img src="https://img.shields.io/badge/JAVA-D0271D?style=for-the-badge&logo=OpenJDK&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Robot Framework-000000?style=for-the-badge&logo=Robot Framework&logoColor=white"></a>
