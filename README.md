@@ -15,6 +15,7 @@ Language :
 
 Framework : 
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+<img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
 
 <br/><br/>
 
