@@ -2,7 +2,7 @@
 
 👋Welcome my github profile!
 
-##  :clipboard: Once I've Used
+##  📋 Once I've Used
 Language : 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
@@ -19,7 +19,7 @@ Framework :
 
 <br/><br/>
 
-## :cloud: SNS :cloud:
+## ☁️ SNS ☁️
 <a href="https://blog.naver.com/gkatjdwns10" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://velog.io/@hamseongjun" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://hamseongjun.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-181717?style=flat-square&logo=github&logoColor=white"/></a>
